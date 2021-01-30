@@ -1,9 +1,5 @@
 UI Designer and Translator
 
-Tools:
-
-Figma
-
-CSS/JavaScript/React
+Tools: Figma/CSS/JavaScript/React
 
 https://ymcheung.tw
