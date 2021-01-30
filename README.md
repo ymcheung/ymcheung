@@ -1,3 +1,5 @@
+UI Designer and Translator
+
 Tools:
 
 Figma
