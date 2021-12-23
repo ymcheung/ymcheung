@@ -2,8 +2,7 @@ UI Designer and Translator
 
 https://ymcheung.tw
 
-Writings on Web Front-End:
-https://build.intersection.tw
+Writings on Web Front-End (中文): https://build.intersection.tw
 
 <p style="display:inline-block;">
 <img src="https://img.shields.io/badge/Figma-black.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
