@@ -2,7 +2,7 @@ UI Designer and Translator
 
 https://ymcheung.tw
 
-還寫了一些網頁前端的文章：https://build.intersection.tw
+還有一些網頁前端的心得：https://build.intersection.tw
 
 <p style="display:inline-block;">
 <img src="https://img.shields.io/badge/Figma-black.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
