@@ -2,7 +2,7 @@ UI Designer and Translator
 
 https://ymcheung.tw
 
-最近更新的網頁前端心得：[使用 Astro 打造速度飛快的靜態網站](https://build.intersection.tw/moment-with-astro)
+最近更新的網頁前端心得：[初次使用 Remix，搭配 mdx-bundler](https://build.intersection.tw/remix-with-mdx-bundler)
 
 <p style="display:inline-block;">
 <img src="https://img.shields.io/badge/Figma-black.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
