@@ -2,7 +2,7 @@ Web Front-End Developer and Translator
 
 https://read.cv/ymcheung
 
-最近更新的網頁前端心得：[初次使用 Remix，搭配 mdx-bundler](https://build.intersection.tw/remix-with-mdx-bundler)
+最近更新的網頁前端心得：[解決 MDX 元件的 TypeScript 型別問題](https://build.intersection.tw/mdx-typescript)
 
 <p style="display:inline-block;">
 
