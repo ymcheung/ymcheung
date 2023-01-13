@@ -2,7 +2,7 @@ Web Front-End Developer and Translator
 
 https://read.cv/ymcheung
 
-最近更新的網頁前端心得：[解決 MDX 元件的 TypeScript 型別問題](https://build.intersection.tw/mdx-typescript)
+最近更新的網頁前端心得：[Chakra UI 搭配 React-Hook-Form，文件上沒說清楚的地方](https://build.intersection.tw/chakra-ui-with-react-hook-form)
 
 <p style="display:inline-block;">
 
