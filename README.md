@@ -2,7 +2,7 @@ Web Front-End Developer and Translator
 
 https://read.cv/ymcheung
 
-最近更新的網頁前端心得：[簡單介紹即時共編的程式碼編輯器 Zed](https://build.intersection.tw/zed-editor)
+最近更新的網頁前端心得：[使用 Astro 打造速度飛快的靜態網站](https://build.intersection.tw/moment-with-astro)
 
 <p style="display:inline-block;">
 
