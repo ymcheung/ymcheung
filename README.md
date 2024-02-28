@@ -1,6 +1,8 @@
 Web Front-End Developer and Translator
 
-https://read.cv/ymcheung
+Day: [超開放實驗室](https://ooopenlab.cc)
+
+Night and Holiday: [用得到的猫紋](https://goods.carrier.express)
 
 最近更新的網頁前端心得：[使用 Astro 打造速度飛快的靜態網站](https://build.intersection.tw/moment-with-astro)
 
