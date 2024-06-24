@@ -4,7 +4,7 @@ Day: [超開放實驗室](https://ooopenlab.cc)
 
 Night and Holiday: [用得到的猫紋](https://goods.carrier.express)
 
-最近更新的網頁前端心得：[使用 Astro 打造速度飛快的靜態網站](https://build.intersection.tw/moment-with-astro)
+最近更新的網頁前端心得：[Supabase 的瑣碎使用心得](https://build.intersection.tw/using-supabase)
 
 <p style="display:inline-block;">
 
@@ -16,6 +16,6 @@ Night and Holiday: [用得到的猫紋](https://goods.carrier.express)
 
   <img src="https://img.shields.io/badge/SOLID-2C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js"/>
 
-  <img src="https://img.shields.io/badge/Figma-black.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/PENPOT-00D1B8.svg?style=for-the-badge&logo=penpot&logoColor=black" alt="Penpot"/>
 
 </p>
