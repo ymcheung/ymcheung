@@ -4,7 +4,7 @@ Day: [超開放實驗室](https://ooopenlab.cc)
 
 Night and Holiday: [用得到的猫紋](https://goods.carrier.express)
 
-最近更新的網頁前端心得：[Supabase 的瑣碎使用心得](https://build.intersection.tw/using-supabase)
+最近更新的網頁前端心得：[讓 Airtable 的 Web API 聽話，照順序列出資料](https://build.intersection.tw/airtable-grid-view)
 
 <p style="display:inline-block;">
 
