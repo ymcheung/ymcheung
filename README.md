@@ -12,7 +12,7 @@ Night and Holiday: [Meow Mappinf](https://meow.carrier.express)、[用得到的�
 
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML 5"/>
 
-  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=csswizardry&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
 
   <img src="https://img.shields.io/badge/SOLID-2C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js"/>
 
