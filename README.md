@@ -2,9 +2,9 @@ Web Front-End Developer and Translator
 
 Day: [超開放實驗室](https://ooopenlab.cc)
 
-Night and Holiday: [用得到的猫紋](https://goods.carrier.express)
+Night and Holiday: [Meow Mappinf](https://meow.carrier.express)、[用得到的猫紋](https://goods.carrier.express)
 
-最近更新的網頁前端心得：[讓 Airtable 的 Web API 聽話，照順序列出資料](https://build.intersection.tw/airtable-grid-view)
+最近更新的網頁前端心得：[以 2024 年的方法製作 Favicon：6 個檔案就搞定大多數需求 (翻譯)](https://build.intersection.tw/how-to-favicon)
 
 <p style="display:inline-block;">
 
