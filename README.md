@@ -1,6 +1,6 @@
-Web Front-End Developer and Translator
+UI Developer and Translator
 
-Day: [超開放實驗室](https://ooopenlab.cc)
+Day: [OOOPEN Lab](https://ooopenlab.cc/en)
 
 Night and Holiday:
 - [Meow Mapping](https://meow.carrier.express) ➡️ Discover authentic travel experiences at some of the best cat spots
