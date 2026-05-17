@@ -3,7 +3,7 @@ UI Developer
 Day: [OOOPEN LAB](https://ooopenlab.cc/en)
 
 Night and Holiday:
-- 中壢 Chungli ➡️ Owned Intelligence for Website Analytics
+- [中壢 Chungli](https://analytics.intersection.tw) ➡️ Owned Intelligence for Website Analytics
 - 石頭里 Shitou Village ➡️ Owned Mail Productivity Hub
 - 中山路 ZhongShan Rd. ➡️ Owned Business Center
 
