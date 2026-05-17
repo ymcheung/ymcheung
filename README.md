@@ -1,10 +1,11 @@
-UI Developer and Translator
+UI Developer
 
-Day: [OOOPEN Lab](https://ooopenlab.cc/en)
+Day: [OOOPEN LAB](https://ooopenlab.cc/en)
 
 Night and Holiday:
-- [Meow Mapping](https://meow.carrier.express) ➡️ Discover authentic travel experiences at some of the best cat spots
-- [用得到的猫紋](https://goods.carrier.express) ➡️ 發掘、分享實際使用貓商品的心得，讓貓商品充滿視線各個角落。
+- 中壢 Chungli ➡️ Owned Analytics
+- 石頭里 Shitou Village ➡️ Owned Cross-Platform Mail App with Productivity
+- 中山路 ZhongShan Rd. ➡️ Owned Ordering and Accounting System
 
 最近更新的網頁前端心得：[以 2024 年的方法製作 Favicon：6 個檔案就搞定大多數需求 (翻譯)](https://build.intersection.tw/how-to-favicon)
 
