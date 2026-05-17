@@ -3,9 +3,9 @@ UI Developer
 Day: [OOOPEN LAB](https://ooopenlab.cc/en)
 
 Night and Holiday:
-- 中壢 Chungli ➡️ Owned Analytics
-- 石頭里 Shitou Village ➡️ Owned Cross-Platform Mail App with Productivity
-- 中山路 ZhongShan Rd. ➡️ Owned Ordering and Accounting System
+- 中壢 Chungli ➡️ Owned Intelligence for Website Analytics
+- 石頭里 Shitou Village ➡️ Owned Mail Productivity Hub
+- 中山路 ZhongShan Rd. ➡️ Owned Business Center
 
 最近更新的網頁前端心得：[以 2024 年的方法製作 Favicon：6 個檔案就搞定大多數需求 (翻譯)](https://build.intersection.tw/how-to-favicon)
 
