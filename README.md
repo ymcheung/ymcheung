@@ -7,7 +7,7 @@ Night and Holiday:
 - 石頭里 Shitou Village ➡️ Owned Mail Productivity Hub
 - 中山路 ZhongShan Rd. ➡️ Owned Business Center
 
-最近更新的網頁前端心得：[以 2024 年的方法製作 Favicon：6 個檔案就搞定大多數需求 (翻譯)](https://build.intersection.tw/how-to-favicon)
+最近更新的網頁前端心得：[以 2026 年的方法製作 Favicon：6 個檔案就搞定大多數需求 (翻譯)](https://build.intersection.tw/how-to-favicon)
 
 <p style="display:inline-block;">
 
