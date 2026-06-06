@@ -6,6 +6,7 @@ Night and Holiday:
 - [中壢 Chungli](https://analytics.intersection.tw) ➡️ Owned Intelligence for Website Analytics
 - 石頭里 Shitou Village ➡️ Owned Mail Productivity Hub
 - 中山路 ZhongShan Rd. ➡️ Owned Business Center
+- 老街溪 LaojieRiver ➡️ Owned Passwords Manager
 
 最近更新的網頁前端心得：[以 2026 年的方法製作 Favicon：6 個檔案就搞定大多數需求 (翻譯)](https://build.intersection.tw/how-to-favicon)
 
@@ -16,8 +17,6 @@ Night and Holiday:
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML 5"/>
 
   <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
-
-  <img src="https://img.shields.io/badge/SOLID-2C4F7C.svg?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js"/>
 
   <img src="https://img.shields.io/badge/PENPOT-00D1B8.svg?style=for-the-badge&logo=penpot&logoColor=black" alt="Penpot"/>
 
